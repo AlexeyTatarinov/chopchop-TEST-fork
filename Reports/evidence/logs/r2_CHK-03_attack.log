@@ -1,0 +1,20 @@
+  "success": true,
+  "message": "Got property attackInput from Protagonist",
+    "value": false,
+
+== F rep 1 22:56:23.039
+  "success": true,
+attackInput after:     "value": false,  22:56:24.906
+== F rep 2 22:56:27.235
+  "success": true,
+attackInput after:     "value": false,  22:56:29.087
+== F rep 3 22:56:31.196
+  "success": true,
+attackInput after:     "value": false,  22:56:32.945
+== LMB via 'alttester click PigChef(Clone)'
+  "success": true,
+  "message": "Clicked on object with NAME='PigChef(Clone)'",
+  "success": true,
+  "message": "Clicked on object with NAME='PigChef(Clone)'",
+  "success": true,
+  "message": "Clicked on object with NAME='PigChef(Clone)'",

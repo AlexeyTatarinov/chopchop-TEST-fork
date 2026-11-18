@@ -1,0 +1,16 @@
+== run 1 22:53:10
+      "platform": "WindowsEditor",
+  "message": "1 game(s) registered on 127.0.0.1:13000"
+  "message": "Current scene: MainMenu",
+"scenes":["MainMenu","PersistentManagers"]},"snapshot":"C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\.alttester-cli\\snapshot-2026-11-18T21-53-12Z.json",
+== run 2 22:53:12
+      "platform": "WindowsEditor",
+  "message": "1 game(s) registered on 127.0.0.1:13000"
+  "message": "Current scene: MainMenu",
+"scenes":["MainMenu","PersistentManagers"]},"snapshot":"C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\.alttester-cli\\snapshot-2026-11-18T21-53-14Z.json",
+== run 3 22:53:14
+      "platform": "WindowsEditor",
+  "message": "1 game(s) registered on 127.0.0.1:13000"
+  "message": "Current scene: MainMenu",
+"scenes":["MainMenu","PersistentManagers"]},"snapshot":"C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\.alttester-cli\\snapshot-2026-11-18T21-53-15Z.json",
+  "message": "Screenshot saved to C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\r2_CHK-01_after.png",

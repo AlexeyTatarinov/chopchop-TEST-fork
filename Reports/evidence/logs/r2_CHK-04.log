@@ -1,0 +1,50 @@
+baseline: cam-player offset x=3.96 y=4.00 z=8.08  yaw_deg=26.1 height=4.00
+== control: mouse move WITHOUT right button
+after: cam-player offset x=7.58 y=2.50 z=-2.43  yaw_deg=107.8 height=2.50
+== RMB down + mouse right (+200px)
+  "success": true,
+  "message": "Key down: Mouse1",
+  "success": true,
+  "message": "Key up: Mouse1",
+after: cam-player offset x=-1.61 y=3.65 z=8.75  yaw_deg=-10.4 height=3.65
+== idle check (no input)
+idle 1: yaw_deg=-10.4 height=4.00 (offset -1.63 4.00 8.85)
+idle 2: yaw_deg=-10.4 height=4.00 (offset -1.63 4.00 8.85)
+idle 3: yaw_deg=-10.4 height=4.00 (offset -1.63 4.00 8.85)
+######## clean series 22:58:14
+--- rep 1
+baseline: yaw_deg=-39.4 height=4.00 (offset -5.71 4.00 6.95)
+A no-RMB right +200px
+  -> yaw_deg=11.9 height=4.00 (offset 1.85 4.00 8.81)
+RMB right baseline: yaw_deg=-21.7 height=4.00 (offset -3.33 4.00 8.36)
+RMB right after:    yaw_deg=16.8 height=4.00 (offset 2.61 4.00 8.61)
+RMB left baseline: yaw_deg=-3.9 height=4.00 (offset -0.62 4.00 8.98)
+RMB left after:    yaw_deg=-47.7 height=4.00 (offset -6.66 4.00 6.05)
+RMB down baseline: yaw_deg=-8.7 height=4.00 (offset -1.36 4.00 8.90)
+RMB down after:    yaw_deg=-8.7 height=2.68 (offset -1.24 2.68 8.09)
+RMB up baseline: yaw_deg=-8.7 height=4.24 (offset -1.37 4.24 8.94)
+RMB up after:    yaw_deg=-8.7 height=6.18 (offset -1.33 6.18 8.69)
+--- rep 2
+baseline: yaw_deg=-8.7 height=4.85 (offset -1.37 4.85 8.95)
+A no-RMB right +200px
+  -> yaw_deg=76.4 height=4.37 (offset 8.80 4.37 2.12)
+RMB right baseline: yaw_deg=52.4 height=4.02 (offset 7.13 4.02 5.49)
+RMB right after:    yaw_deg=95.5 height=4.00 (offset 8.96 4.00 -0.87)
+RMB left baseline: yaw_deg=63.9 height=4.00 (offset 8.09 4.00 3.95)
+RMB left after:    yaw_deg=29.0 height=4.00 (offset 4.36 4.00 7.87)
+RMB down baseline: yaw_deg=53.4 height=4.00 (offset 7.23 4.00 5.36)
+RMB down after:    yaw_deg=53.4 height=2.05 (offset 5.78 2.05 4.29)
+RMB up baseline: yaw_deg=53.4 height=3.49 (offset 7.09 3.49 5.26)
+RMB up after:    yaw_deg=53.4 height=5.31 (offset 7.23 5.31 5.37)
+--- rep 3
+baseline: yaw_deg=53.4 height=4.34 (offset 7.27 4.34 5.39)
+A no-RMB right +200px
+  -> yaw_deg=91.4 height=4.15 (offset 9.03 4.15 -0.22)
+RMB right baseline: yaw_deg=56.5 height=4.00 (offset 7.51 4.00 4.97)
+RMB right after:    yaw_deg=94.6 height=4.00 (offset 8.97 4.00 -0.72)
+RMB left baseline: yaw_deg=73.1 height=4.00 (offset 8.61 4.00 2.61)
+RMB left after:    yaw_deg=-40.4 height=4.00 (offset -5.84 4.00 6.85)
+RMB down baseline: yaw_deg=-10.7 height=4.00 (offset -1.68 4.00 8.84)
+RMB down after:    yaw_deg=-10.7 height=1.66 (offset -1.15 1.66 6.05)
+RMB up baseline: yaw_deg=-10.7 height=2.56 (offset -1.50 2.56 7.90)
+RMB up after:    yaw_deg=-10.7 height=4.46 (offset -1.69 4.46 8.90)

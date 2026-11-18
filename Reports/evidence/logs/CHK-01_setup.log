@@ -1,0 +1,43 @@
+Connected to 127.0.0.1:13000 as '36B640FC' (daemon pid=4228, app=36B640FC)
+{
+  "success": true,
+  "message": "Current scene: TestingGround",
+  "data": {
+    "current_scene": "TestingGround"
+  },
+  "snapshot": "C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\.alttester-cli\\snapshot-2026-11-18T19-07-01Z.json",
+}
+{
+  "success": true,
+  "message": "Found 3 loaded scenes",
+  "data": {
+    "scenes": [
+      "TestingGround",
+      "PersistentManagers",
+      "Gameplay"
+    ]
+  },
+  "snapshot": "C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\.alttester-cli\\snapshot-2026-11-18T19-07-02Z.json",
+}
+{
+  "success": true,
+  "message": "Screen size: 1106x378",
+  "data": {
+    "width": 1106,
+    "height": 378
+  }
+}
+{
+  "success": true,
+  "message": "Screenshot saved to C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\CHK-01_before.png",
+  "data": {
+    "path": "C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\CHK-01_before.png"
+  }
+}
+{
+  "success": true,
+  "message": "Current time scale: 1",
+  "data": {
+    "time_scale": 1
+  }
+}

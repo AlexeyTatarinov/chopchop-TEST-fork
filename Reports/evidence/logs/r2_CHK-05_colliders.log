@@ -1,0 +1,21 @@
+Palm (3) | CapsuleCollider | Error:Componentnotfound
+Palm (3) | BoxCollider | Error:Componentnotfound
+Palm (3) | MeshCollider | Error:Componentnotfound
+Palm (3) | SphereCollider | Error:Componentnotfound
+Palm (5) | CapsuleCollider | Error:Componentnotfound
+Palm (5) | BoxCollider | Error:Componentnotfound
+Palm (5) | MeshCollider | Error:Componentnotfound
+Palm (5) | SphereCollider | Error:Componentnotfound
+Boat | CapsuleCollider | Error:Componentnotfound
+Boat | BoxCollider | Error:Componentnotfound
+Boat | MeshCollider | Error:Componentnotfound
+Boat | SphereCollider | Error:Componentnotfound
+Rubble3(Polybrush Clone) | CapsuleCollider | Error:Componentnotfound
+Rubble3(Polybrush Clone) | BoxCollider | Error:Componentnotfound
+Rubble3(Polybrush Clone) | MeshCollider | Error:Componentnotfound
+Rubble3(Polybrush Clone) | SphereCollider | Error:Componentnotfound
+-- control: player CharacterController
+Error: Component not found
+-- trunk children of Palm (3)?
+  "count": 1,
+      "name": "Light Probe Group",

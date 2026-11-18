@@ -1,0 +1,120 @@
+An AudioCue stop event was requested, but nobody picked it up. Check why there is no AudioManager already loaded, and make sure it's listening on this AudioCue Event channel.
+AudioCueEventChannelSO:RaiseStopEvent (AudioCueKey) (at Assets/Scripts/Events/ScriptableObjects/AudioCueEventChannelSO.cs:41)
+AudioCue:StopAudioCue () (at Assets/Scripts/Audio/AudioCue.cs:52)
+AudioCue:OnDisable () (at Assets/Scripts/Audio/AudioCue.cs:29)
+UnloadTime: 38.506900 ms
+Loaded scene 'Assets/Scenes/Initialization.unity'
+	Deserialize:            1.524 ms
+	Integration:            380.304 ms
+	Integration of assets:  0.018 ms
+	Thread Wait Time:       23.327 ms
+	Total Operation Time:   405.173 ms
+Unloading 9525 unused Assets / (74.2 MB). Loaded Objects now: 9629.
+Memory consumption went from 0.61 GB to 0.54 GB.
+Total: 59.213500 ms (FindLiveObjects: 1.758200 ms CreateObjectMapping: 0.922100 ms MarkObjects: 31.803000 ms  DeleteObjects: 24.728500 ms)
+Refreshing native plugins compatible for Editor in 8.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+  "messageId": "639306256479758739",
+  "driverId": "c079e3ca61ca4d56a791640a52db320b",
+  "commandName": "getCurrentScene",
+  "isNotification": false
+}
+  "messageId": "639306256480050060",
+  "driverId": "c079e3ca61ca4d56a791640a52db320b",
+  "commandName": "gameFindObjects",
+  "isNotification": false,
+  "enabled": false,
+  "objectConditions": [
+    {
+      "Selector": "//",
+      "Type": 1,
+      "Indexer": null,
+      "Selectors": [
+        {
+          "Selector": "*",
+          "Type": 0
+        }
+      ]
+    }
+  ],
+  "cameraConditions": [
+    {
+      "Selector": "//",
+      "Type": 1,
+      "Indexer": null,
+      "Selectors": [
+        {
+          "Selector": "*",
+          "Type": 0
+        }
+      ]
+    }
+  ]
+}
+There can be only one active Event System.
+Loaded scene 'Assets/Scenes/Managers/PersistentManagers.unity'
+	Deserialize:            83.953 ms
+	Integration:            4.808 ms
+	Integration of assets:  20.308 ms
+	Thread Wait Time:       74.378 ms
+	Total Operation Time:   183.447 ms
+  "messageId": "639306256480361627",
+  "driverId": "c079e3ca61ca4d56a791640a52db320b",
+  "commandName": "getApplicationScreenSize",
+  "isNotification": false
+}
+Launched and connected uv unwrapper C:/Program Files/Unity/Hub/Editor/6000.3.28f1/Editor/Data/Tools/UnwrapCL.exe after 0.02 seconds
+Problem detected while opening the Scene file: 'Assets/Scenes/Menus/MainMenu.unity'.
+Check the following logs for more details.
+Inconsistency fixed: A Component cannot be part of a Prefab instance if its GameObject isn't part of a Prefab instance (GameObject: 'Missing Prefab (Dummy)' and Component of type Transform)
+Inconsistency fixed: A Component cannot be part of a Prefab instance if its GameObject isn't part of a Prefab instance (GameObject: 'Missing Prefab (Dummy)' and Component of type Transform)
+Inconsistency fixed: A Component cannot be part of a Prefab instance if its GameObject isn't part of a Prefab instance (GameObject: 'Missing Prefab (Dummy)' and Component of type Transform)
+Inconsistency fixed: A Component cannot be part of a Prefab instance if its GameObject isn't part of a Prefab instance (GameObject: 'Missing Prefab (Dummy)' and Component of type Transform)
+Prefab instance problem. Missing Prefab Asset: 'Ground_Path_Level3 (Missing Prefab with guid: 1d843a4466c9de34a82a2e1feab044b5)'
+Prefab instance problem. Missing Prefab Asset: 'Rocks_Path_BackSide (Missing Prefab with guid: a6981181030ed2647942d1f5ff47e1d1)'
+Prefab instance problem. Missing Prefab Asset: 'Ground_Path_Level2 (Missing Prefab with guid: b09c375ae80121e419460bab0d5bd14c)'
+Prefab instance problem. Missing Prefab Asset: 'Rocks_Path_Divider (Missing Prefab with guid: fa681c013617a6742b914f9f026e1c77)'
+Loaded scene 'Assets/Scenes/Menus/MainMenu.unity'
+	Deserialize:            518.535 ms
+	Integration:            583.062 ms
+	Integration of assets:  53.877 ms
+	Thread Wait Time:       43.128 ms
+	Total Operation Time:   1198.602 ms
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+  "messageId": "639306256549194661",
+  "driverId": "c079e3ca61ca4d56a791640a52db320b",
+  "commandName": "getCurrentScene",
+  "isNotification": false
+}
+Asset Pipeline Refresh (id=4bbb1d1ffef757340b4c7672f7dc5317): Total: 0.018 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+  "messageId": "639306257152169673",
+  "driverId": "c079e3ca61ca4d56a791640a52db320b",
+  "commandName": "getAllLoadedScenes",
+  "isNotification": false
+}
+  "messageId": "639306257228706445",
+  "driverId": "29f629463c2e45c0b29d74a6bed709c1",
+  "commandName": "getServerVersion",
+  "isNotification": false
+}
+  "messageId": "639306257380513982",
+  "driverId": "65a63d7f5e2a4ad8bc2a3116af104728",
+  "commandName": "getServerVersion",
+  "isNotification": false
+}
+  "messageId": "639306257602057745",
+  "driverId": "d3fc071494044798b4e5f3637166fb6d",
+  "commandName": "getServerVersion",
+  "isNotification": false
+}
+  "messageId": "639306257704112281",
+  "driverId": "abaa1252420d4ee89c221acce3f9c3a7",
+  "commandName": "getServerVersion",
+  "isNotification": false
+}

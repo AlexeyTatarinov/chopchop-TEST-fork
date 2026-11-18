@@ -1,0 +1,64 @@
+  "message": "Screenshot saved to C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\r2_CHK-02_before.png",
+== click New Game 22:53:29
+{
+  "success": true,
+  "found": true,
+  "message": "Clicked on object with NAME='Button New Game'",
+  "alt_object": {
+    "name": "Button New Game",
+    "id": -155162,
+    "x": 106,
+    "y": 198,
+    "mobileY": 180,
+    "type": "",
+    "enabled": true,
+    "worldX": 105.97049,
+    "worldY": 198.345,
+    "worldZ": 0,
+    "idCamera": 125560,
+    "transformParentId": -155124
+  },
+  "search": null,
+}
+== t+3s
+  "message": "Current scene: MainMenu",
+== t+6s
+  "message": "Current scene: MainMenu",
+== t+9s
+  "message": "Current scene: MainMenu",
+== t+12s
+  "message": "Current scene: MainMenu",
+"scenes":["MainMenu","PersistentManagers"]},"snapshot":"C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\.alttester-cli\\snapshot-2026-11-18T21-53-48Z.json","ai_guidance":"Readthesnapshotwith`alttestersnapshot--show`fortherenderedhierarchy(or`--show--json`forrawJSON).Thefilepathisinthe`snapshot`fieldifyouneedtoopenitdirectly.DoNOTtakescreenshotsunlessverifyingvisualappearance."
+  "message": "Screenshot saved to C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\r2_CHK-02_after.png",
+== popup: find buttons
+      
+"name": "Panel Buttons",       "x": 106,       "y": 161,       "enabled": true,       
+"name": "Button Continue",       "x": 106,       "y": 219,       "enabled": true,       
+"name": "Button New Game",       "x": 106,       "y": 198,       "enabled": true,       
+"name": "Button Settings ",       "x": 106,       "y": 177,       "enabled": true,       
+"name": "Button Credits",       "x": 106,       "y": 156,       "enabled": true,       
+"name": "Button Exit",       "x": 106,       "y": 102,       "enabled": true,       
+"name": "Panel Buttons",       "x": 553,       "y": 108,       "enabled": true,       
+"name": "Button Close",       "x": 710,       "y": 295,       "enabled": true,       
+"name": "PopupButton - 1",       "x": 495,       "y": 108,       "enabled": true,       
+"name": "PopupButton - 2",       "x": 611,       "y": 108,       "enabled": true,       
+"name": "ButtonToClick",       "x": 495,       "y": 108,       "enabled": true,       
+"name": "ButtonText",       "x": 496,       "y": 108,       "enabled": true,       
+"name": "ButtonToClick",       "x": 611,       "y": 108,       "enabled": true,       
+"name": "ButtonText",       "x": 612,       "y": 108,       "enabled": true,
+== click 'PopupButton - 1' (New game) 22:54:10
+  "success": true,
+  "message": "Clicked on object with NAME='PopupButton - 1'",
+== t+3s
+  "message": "Current scene: Beach",
+== t+6s
+  "message": "Current scene: Beach",
+== t+9s
+  "message": "Current scene: Beach",
+== t+12s
+  "message": "Current scene: Beach",
+== t+15s
+  "message": "Current scene: Beach",
+"scenes":["PersistentManagers","Gameplay","Beach"]},"snapshot":"C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\a
+
+  "message": "Screenshot saved to C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\r2_CHK-02_after_level.png",

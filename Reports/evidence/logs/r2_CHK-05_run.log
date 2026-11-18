@@ -1,0 +1,83 @@
+##### CHK-05 start 23:02:34  start health=50
+=== TARGET Boat at x=-203.2 z=-377.5
+  step 1: key=D dist_before=5.8 moved=1.94 y=-9.55
+  step 2: key=D dist_before=3.9 moved=1.91 y=-9.65
+  step 3: key=D dist_before=2.0 moved=1.68 y=-10.01
+  step 4: key=W dist_before=1.8 moved=1.37 y=-9.66
+  result: подошёл вплотную (до цели 1.5 м), препятствия не встретил; отход назад (A) на 2.37 м -> свободно; здоровье 50->50; IsDead=False; y=-9.49
+=== TARGET Rubble3 A at x=-189.0 z=-385.1
+  step 1: key=A dist_before=13.0 moved=1.93 y=-9.46
+  step 2: key=W dist_before=11.6 moved=1.91 y=-9.00
+  step 3: key=W dist_before=10.1 moved=1.93 y=-8.54
+  step 4: key=A dist_before=8.8 moved=1.92 y=-8.60
+  step 5: key=W dist_before=7.5 moved=1.91 y=-8.18
+  step 6: key=W dist_before=5.9 moved=2.04 y=-7.92
+  step 7: key=A dist_before=4.5 moved=1.91 y=-8.30
+  step 8: key=W dist_before=3.2 moved=1.92 y=-8.22
+  step 9: key=A dist_before=1.6 moved=1.91 y=-8.85
+  result: подошёл вплотную (до цели 1.4 м), препятствия не встретил; отход назад (S) на 2.39 м -> свободно; здоровье 50->50; IsDead=False; y=-8.73
+=== TARGET Rubble1 A at x=-189.8 z=-388.0
+  step 1: key=W dist_before=6.0 moved=1.98 y=-8.77
+  step 2: key=D dist_before=4.6 moved=1.91 y=-8.22
+  step 3: key=W dist_before=3.4 moved=1.92 y=-8.40
+  step 4: key=W dist_before=1.7 moved=1.93 y=-8.67
+  result: подошёл вплотную (до цели 1.2 м), препятствия не встретил; отход назад (A) на 2.39 м -> свободно; здоровье 50->50; IsDead=False; y=-9.37
+=== TARGET Palm 3 at x=-199.0 z=-390.0
+  step 1: key=D dist_before=12.7 moved=1.91 y=-8.87
+  step 2: key=D dist_before=11.1 moved=1.92 y=-8.13
+  step 3: key=D dist_before=9.4 moved=1.94 y=-7.30
+  step 4: key=D dist_before=7.5 moved=1.96 y=-6.77
+  step 5: key=D dist_before=5.6 moved=1.90 y=-6.56
+  step 6: key=D dist_before=3.7 moved=1.94 y=-6.50
+  step 7: key=D dist_before=1.9 moved=1.92 y=-6.62
+  result: подошёл вплотную (до цели 1.6 м), препятствия не встретил; отход назад (S) на 2.36 м -> свободно; здоровье 50->50; IsDead=False; y=-7.10
+=== TARGET Rubble3 B at x=-197.3 z=-392.2
+  step 1: key=W dist_before=5.7 moved=1.91 y=-6.65
+  step 2: key=A dist_before=4.4 moved=1.90 y=-6.55
+  step 3: key=W dist_before=3.2 moved=1.91 y=-6.42
+  result: подошёл вплотную (до цели 1.5 м), препятствия не встретил; отход назад (S) на 2.36 м -> свободно; здоровье 50->50; IsDead=False; y=-6.66
+=== TARGET Palm 4 at x=-201.1 z=-392.6
+  step 1: key=W dist_before=5.8 moved=1.92 y=-6.44
+  step 2: key=W dist_before=4.1 moved=1.93 y=-6.38
+  step 3: key=D dist_before=2.8 moved=1.93 y=-6.50
+  step 4: key=W dist_before=1.7 moved=0.56 y=-6.51
+  result: подошёл вплотную (до цели 1.1 м), препятствия не встретил; отход назад (S) на 0.65 м -> свободно; здоровье 50->50; IsDead=False; y=-6.58
+=== TARGET Palm 2 at x=-197.3 z=-393.5
+  step 1: key=A dist_before=4.1 moved=1.91 y=-6.42
+  step 2: key=A dist_before=2.2 moved=1.42 y=-6.33
+  result: подошёл вплотную (до цели 1.1 м), препятствия не встретил; отход назад (S) на 2.37 м -> свободно; здоровье 50->50; IsDead=False; y=-6.45
+=== TARGET BeachPalm at x=-197.9 z=-394.9
+  step 1: key=W dist_before=4.8 moved=1.91 y=-6.35
+  step 2: key=W dist_before=2.9 moved=1.36 y=-6.36
+  step 3: key=W dist_before=2.1 moved=1.93 y=-6.34
+  result: подошёл вплотную (до цели 1.4 м), препятствия не встретил; отход назад (D) на 2.28 м -> свободно; здоровье 50->50; IsDead=False; y=-6.51
+=== TARGET Palm2 A at x=-202.8 z=-395.0
+  step 1: key=W dist_before=1.9 moved=1.69 y=-6.53
+  result: подошёл вплотную (до цели 1.0 м), препятствия не встретил; отход назад (A) на 2.36 м -> свободно; здоровье 50->50; IsDead=False; y=-6.33
+=== TARGET Rubble1 B at x=-186.8 z=-394.0
+  step 1: key=A dist_before=13.2 moved=1.93 y=-6.23
+  step 2: key=A dist_before=11.5 moved=1.91 y=-6.35
+  step 3: key=A dist_before=9.7 moved=1.98 y=-6.48
+  step 4: key=A dist_before=7.7 moved=1.91 y=-6.72
+  step 5: key=A dist_before=5.8 moved=1.92 y=-7.03
+  step 6: key=A dist_before=4.0 moved=1.93 y=-7.50
+  step 7: key=W dist_before=2.7 moved=1.94 y=-8.06
+  result: подошёл вплотную (до цели 1.1 м), препятствия не встретил; отход назад (D) на 2.38 м -> свободно; здоровье 50->50; IsDead=False; y=-7.54
+=== TARGET Palm 5 at x=-202.1 z=-399.7
+  step 1: key=D dist_before=13.2 moved=1.95 y=-7.16
+  step 2: key=D dist_before=11.4 moved=1.95 y=-6.73
+  step 3: key=D dist_before=9.5 moved=1.90 y=-6.54
+  step 4: key=D dist_before=7.6 moved=1.92 y=-6.40
+  step 5: key=D dist_before=5.7 moved=1.91 y=-6.27
+  step 6: key=D dist_before=4.1 moved=1.92 y=-6.34
+  step 7: key=W dist_before=3.0 moved=1.91 y=-6.48
+  result: подошёл вплотную (до цели 1.2 м), препятствия не встретил; отход назад (S) на 2.35 м -> свободно; здоровье 50->50; IsDead=False; y=-6.32
+=== TARGET Palm2 B at x=-201.0 z=-402.4
+  step 1: key=W dist_before=5.5 moved=1.93 y=-6.43
+  step 2: key=W dist_before=3.7 moved=0.71 y=-6.48
+  step 3: key=W dist_before=3.0 moved=1.54 y=-6.65
+  step 4: key=A dist_before=1.7 moved=1.92 y=-6.64
+  result: подошёл вплотную (до цели 1.4 м), препятствия не встретил; отход назад (S) на 2.38 м -> свободно; здоровье 50->50; IsDead=False; y=-6.30
+##### SUMMARY
+min y seen: -10.01; falls: []; hits: []
+##### end

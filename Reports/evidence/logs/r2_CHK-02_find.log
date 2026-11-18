@@ -1,0 +1,14 @@
+== --contains Button --all
+  "count": 6,       
+"name": "Panel Buttons",       "id": -155122,       "x": 106,       "y": 161,       
+"name": "Button Continue",       "id": -155130,       "x": 106,       "y": 219,       
+"name": "Button New Game",       "id": -155162,       "x": 106,       "y": 198,       
+"name": "Button Settings ",       "id": -155194,       "x": 106,       "y": 177,       
+"name": "Button Credits",       "id": -155226,       "x": 106,       "y": 156,       
+"name": "Button Exit",       "id": -155258,       "x": 106,       "y": 102,
+== --by TEXT --contains New --all
+  "count": 0,
+== --contains Menu --all
+  "count": 2,       
+"name": "Canvas-MainMenu",       "id": -155084,       "x": 553,       "y": 189,       
+"name": "MainMenu_Panel",       "id": -155098,       "x": 106,       "y": 189,

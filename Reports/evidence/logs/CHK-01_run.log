@@ -1,0 +1,25 @@
+== run 1 20:07:17
+      "platform": "WindowsEditor",
+      "in_background": false
+  "message": "1 game(s) registered on 127.0.0.1:13000"
+  "message": "Current scene: TestingGround",
+  "message": "Current time scale: 1",
+== run 2 20:07:19
+      "platform": "WindowsEditor",
+      "in_background": false
+  "message": "1 game(s) registered on 127.0.0.1:13000"
+  "message": "Current scene: TestingGround",
+  "message": "Current time scale: 1",
+== run 3 20:07:20
+      "platform": "WindowsEditor",
+      "in_background": false
+  "message": "1 game(s) registered on 127.0.0.1:13000"
+  "message": "Current scene: TestingGround",
+  "message": "Current time scale: 1",
+{
+  "success": true,
+  "message": "Screenshot saved to C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\CHK-01_after.png",
+  "data": {
+    "path": "C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\CHK-01_after.png"
+  }
+}

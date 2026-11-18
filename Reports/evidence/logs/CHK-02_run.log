@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Screenshot saved to C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\CHK-02_before.png",
+  "data": {
+    "path": "C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\Reports\\evidence\\CHK-02_before.png"
+  }
+}
+== load Initialization
+{
+  "success": true,
+  "message": "Loaded scene: Initialization",
+  "data": {
+    "loaded_scene": "Initialization"
+  },
+  "snapshot": "C:\\Games\\ChopChop\\UOP1_Project\\.claude\\worktrees\\alttester-cli-connection-9050ce\\.alttester-cli\\snapshot-2026-11-18T19-07-28Z.json",
+  "ai_guidance": "Read the snapshot with `alttester snapshot --show` for the rendered hierarchy (or `--show --json` for raw JSON). The file path is in the `snapshot` field if you need to open it directly. Do NOT take screenshots unless verifying visual appearance."
+}
+Error: Exception of type 'AltTester.AltTesterSDK.Driver.CommandResponseTimeoutException' was thrown.
