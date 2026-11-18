@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -510671381, guid: c2b97d41f13e558b923dc4a40274aa5c, type: 3}
+  m_Name: AltTesterEditorSettings
+  m_EditorClassIdentifier: AltTesterEditorModule.dll::AltTester.AltTesterUnitySDK.Editor.AltEditorConfiguration
+  appendToName: 0
+  AdbPath: /usr/local/bin/adb
+  IProxyPath: /usr/local/bin/iproxy
+  XcrunPath: /usr/bin/xcrun
+  MyTests: []
+  Scenes:
+  - _toBeBuilt: 1
+    _path: Assets/Scenes/Initialization.unity
+    _buildIndex: 0
+  platform: 2
+  StandaloneTarget: 5
+  RanInEditor: 0
+  ScenePathDisplayed: 0
+  BuildLocationPath: 
+  createXMLReport: 0
+  xMLFilePath: 
+  AltServerPort: 13000
+  AltServerHost: 127.0.0.1
+  AppName: Chop_Chop
+  assemblyTestDisplayedIndex: 0
+  ResetConnectionData: 0
+  UID: 
+  UsingLocation: 0
+  HideGreenPopup: 0
+  SecureMode: 0
+  ShowNativePopup: 0
+  KeepAUTSymbolDefined: 1
+  KeepAltTesterPrefabInScene: 0

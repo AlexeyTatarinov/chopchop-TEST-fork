@@ -1,5 +1,21 @@
 {
   "dependencies": {
+    "com.alttester.sdk": {
+      "version": "file:../../../AltTesterSDK/AltTester-Unity-SDK-NON-GPL-UPM-Package-2.4.1",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.1.0",
+        "com.unity.editorcoroutines": "1.0.0",
+        "com.unity.test-framework": "1.1.33",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.physics2d": "1.0.0",
+        "com.unity.modules.screencapture": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.ugui": "1.0.0"
+      }
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
